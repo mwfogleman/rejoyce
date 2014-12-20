@@ -14,4 +14,4 @@
  :resources        ["css" "js" "files" "404.html"]
  :keep-files       [".git"]
  :disqus?          false
- :disqus-shortname ""}
+ :disqus-shortname "re-joyce"}
