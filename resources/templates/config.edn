@@ -13,5 +13,5 @@
  :sass-dest        nil
  :resources        ["css" "js" "files" "404.html"]
  :keep-files       [".git"]
- :disqus?          false
+ :disqus?          true
  :disqus-shortname "re-joyce"}
