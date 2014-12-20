@@ -1,17 +1,17 @@
-{:site-title       "My Awesome Blog"
- :author           "Bob Bobbert"
- :description      "This blog is awesome"
- :site-url         "http://blogawesome.com/"
+{:site-title       "rejoyce"
+ :author           "Michael Fogleman"
+ :description      "Statements and questions about technologies"
+ :site-url         "http://mwfogleman.github.io/"
  :post-root        "posts"
  :tag-root         "tags"
  :page-root        "pages"
- :blog-prefix      "/blog"
+ :blog-prefix      ""
  :rss-name         "feed.xml"
  :recent-posts     3
  :post-date-format "dd-MM-yyyy"
  :sass-src         nil
  :sass-dest        nil
- :resources        ["css" "js" "404.html"]
+ :resources        ["css" "js" "files" "404.html"]
  :keep-files       [".git"]
  :disqus?          false
  :disqus-shortname ""}
