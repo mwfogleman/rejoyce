@@ -1,6 +1,6 @@
 {:title "2014: A Year of Emacs"
  :layout :post
- :tags ["Anki" "Clojure" "Emacs"]
+ :tags ["Anki" "Emacs"]
  :toc false}
 
 My Emacs "birthday" is January 21, 2014. That's right-- I just started using Emacs this year! While it's not quite my one-year birthday, I thought I'd take advantage of the annual review blogging tradition to do a retrospective on my first year in Emacs. Note: much of the following chronology takes place during an extended romp through Asia.
